@@ -1,8 +1,11 @@
 # flutter_architecture
 
-A new Flutter project.
+## 参考
+【記事】Flutterアプリを設計するための初心者向けガイド<br>
+【パッケージ】stacked<br>
+【リンク】https://pub.dev/packages/stacked
 
-## Getting Started
+ ## Getting Started
 
 This project is a starting point for a Flutter application.
 
